@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+        <div>Yêu thương hóa giấc mơ người ơi để rồi một mình ta cô đơn ngoài chờ mong trái tim ta quay về đây</div>
       </div>
     </>
   )
